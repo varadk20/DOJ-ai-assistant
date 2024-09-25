@@ -1,0 +1,101 @@
+[
+    {
+        "card_number": 1,
+        "selector": ".card-header.pe-1",
+        "content": "Pending Civil Cases 65253"
+    },
+    {
+        "card_number": 2,
+        "selector": ".card-header.pe-1",
+        "content": "Pending Criminal Cases 17727"
+    },
+    {
+        "card_number": 3,
+        "selector": ".card-header.pe-1",
+        "content": "Total Pending Cases 82980"
+    },
+    {
+        "card_number": 4,
+        "selector": ".card.mb-2.aos-init.aos-animate",
+        "content": "Instituted in last month Instituted in last month civil cases 3,653 Instituted in last month criminal cases 1,873 Instituted in last month total cases 5,526 Civil Criminal Total"
+    },
+    {
+        "card_number": 5,
+        "selector": ".card.mb-2.aos-init.aos-animate",
+        "content": "Instituted in current year Instituted in current year civil cases 29,363 Instituted in current year criminal cases 14,780 Instituted in current year total cases 44,143 Civil Criminal Total"
+    },
+    {
+        "card_number": 6,
+        "selector": ".card.aos-init.aos-animate",
+        "content": "Instituted in last month Instituted in last month civil cases 3,653 Instituted in last month criminal cases 1,873 Instituted in last month total cases 5,526 Civil Criminal Total"
+    },
+    {
+        "card_number": 7,
+        "selector": ".card.aos-init.aos-animate",
+        "content": "Disposal in last month Disposal in last month civil cases 3,342 Disposal in last month criminal cases 1,761 Disposal in last month total cases 5,103 Civil Criminal Total"
+    },
+    {
+        "card_number": 8,
+        "selector": ".card.aos-init.aos-animate",
+        "content": "Instituted in current year Instituted in current year civil cases 29,363 Instituted in current year criminal cases 14,780 Instituted in current year total cases 44,143 Civil Criminal Total"
+    },
+    {
+        "card_number": 9,
+        "selector": ".card.aos-init.aos-animate",
+        "content": "Disposal in current year Disposal in current year civil cases 27,505 (93.67%) Disposal in current year criminal cases 14,702 (99.47%) Disposal in current year total cases 42,207 (95.61%) Civil Criminal Total"
+    },
+    {
+        "card_number": 10,
+        "selector": ".col-md.aos-init.aos-animate",
+        "content": "Coram wise pending cases * Judges Civil Criminal Total 3 Judges 156 (970) 62 (156) 218 (1126) 5 Judges 31 (267) 4 (7) 35 (274) 7 Judges 6 (29) 1 (8) 7 (37)"
+    },
+    {
+        "card_number": 11,
+        "selector": ".col-md p",
+        "content": "Website Reviewed and Updated on: 12-09-2024"
+    },
+    {
+        "footer_links": [
+            {
+                "text": "About Us",
+                "url": "https://njdg.ecourts.gov.in/scnjdg/?p=home/footerlinks/ab&escr_flag="
+            },
+            {
+                "text": "Site map",
+                "url": "https://njdg.ecourts.gov.in/scnjdg/?p=home/footerlinks/sm"
+            },
+            {
+                "text": "Contact Us",
+                "url": "https://njdg.ecourts.gov.in/scnjdg/?p=home/footerlinks/cu"
+            },
+            {
+                "text": "Accessibility Statement",
+                "url": "https://njdg.ecourts.gov.in/scnjdg/?p=home/footerlinks/as"
+            },
+            {
+                "text": "Screen Reader Access",
+                "url": "https://njdg.ecourts.gov.in/scnjdg/?p=home/footerlinks/sr"
+            },
+            {
+                "text": "Web Information Manager",
+                "url": "https://njdg.ecourts.gov.in/scnjdg/?p=home/footerlinks/wi"
+            },
+            {
+                "text": "Terms and Conditions",
+                "url": "https://njdg.ecourts.gov.in/scnjdg/?p=home/footerlinks/tc"
+            },
+            {
+                "text": "Copyright Policy",
+                "url": "https://njdg.ecourts.gov.in/scnjdg/?p=home/footerlinks/cp&escr_flag="
+            },
+            {
+                "text": "Privacy Policy",
+                "url": "https://njdg.ecourts.gov.in/scnjdg/?p=home/footerlinks/pp"
+            },
+            {
+                "text": "Disclaimer",
+                "url": "https://njdg.ecourts.gov.in/scnjdg/?p=home/footerlinks/di"
+            }
+        ]
+    }
+]
